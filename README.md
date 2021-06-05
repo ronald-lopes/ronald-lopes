@@ -1,6 +1,5 @@
-- ✒UI | UX Designer</br>
-- 👨‍💻Devigner</br>
-- 📫 Academic of Systems Analysis and Development
+✒ UI | UX Designer</br>
+🎓 Acadêmico de Análise e Desenvolvimento de Sistemas
 
 <!---
 ronald-lopes/ronald-lopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
