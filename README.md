@@ -1,5 +1,5 @@
-## ✒️ UI | UX Designer
-🎓 Student of systems analysis and development.
+## ✒️ Product Designer
+🎓 Systems analysis and development.
 
 <br>
 <div>
