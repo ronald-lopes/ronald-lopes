@@ -2,12 +2,11 @@
 Systems analysis and development<br/>
 MBA in UX Design
 
-<br>
-<div>
+<!--<div>
   <a href="https://github.com/ronald-lopes/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronald-lopes&bg_color=22272E&title_color=209DB3&text_color=fff&border_color=209DB3&border_radius=16&show_icons=true&icon_color=7A61D4"/>
    <a/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-lopes&layout=compact&bg_color=22272E&border_color=1C8D9E&title_color=209DB3&text_color=fff&border_radius=16&langs_count=7"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-lopes&layout=compact&bg_color=22272E&border_color=1C8D9E&title_color=209DB3&text_color=fff&border_radius=16&langs_count=7"/>
 </div> -->
 
 ##
