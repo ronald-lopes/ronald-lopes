@@ -1,5 +1,6 @@
 ## ✒️ Product Designer
-🎓 Systems analysis and development.
+Systems analysis and development
+MBA in UX Design
 
 <br>
 <div>
