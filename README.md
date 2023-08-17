@@ -14,20 +14,16 @@ MBA in UX Design
 Let´s get in touch
 
 <div>
-  <a href="https://www.behance.net/ronald-lopes" target="_blank">
+  <!--<a href="https://www.behance.net/ronald-lopes" target="_blank">
     <image src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&border_radius=5">
-  </a>
+  </a>-->
     
-  <a href="https://dribbble.com/RonaldLopes" target="_blank">
+  <!--<a href="https://dribbble.com/RonaldLopes" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank">
-  </a>
+  </a>-->
 
   <a href="https://www.linkedin.com/in/ronald-lopes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-    
-  <a href="https://instagram.com/ronald.lopes_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
   <a href="mailto:ronald.lopes@rdesign.art.br">
